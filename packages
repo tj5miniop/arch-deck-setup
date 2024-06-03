@@ -706,8 +706,6 @@ pango
 pangomm-2.48
 parted
 partitionmanager
-paru
-paru-debug
 patch
 pavucontrol
 pciutils
@@ -745,7 +743,6 @@ plasma-vault
 plasma-welcome
 plasma-workspace
 plasma-workspace-wallpapers
-plasma5-themes-vapor-steamos
 plasma5support
 plymouth
 polkit
